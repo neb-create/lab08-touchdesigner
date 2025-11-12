@@ -1,7 +1,7 @@
 # Touch Designer Lab Submission - Nico Kong
 
 For my submission, I created an effect that takes your camera input, stores it in a buffer and then applies a random time lag offset for different parts of the screen.
-The Input also has some extra processing applied that makes it white and transparent - you could play a video under it as a background :]
+The Input also has some extra processing applied that makes it white and transparent - you could play a video under it as a background!
 
 ![img](td.png)
 
