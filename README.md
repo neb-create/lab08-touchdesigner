@@ -4,7 +4,11 @@ For my submission, I created an effect that takes your camera input, stores it i
 
 The Input also has some extra processing applied that makes it white and transparent, so it can actually be used as a mask, and you could play a seperate video behind it.
 
+Screenshot:
+
 ![img](td.png)
+
+The effect looks much nicer in motion, so please download it and try it out for yourself if you're interested!
 
 # Assignment Description
 Let's get introduced to TouchDesigner. For this week's lab our main focus is just getting TouchDesigner installed, dealing with licensing issues/potential problems, and becoming more familiar with how the UI and basic operators work.
